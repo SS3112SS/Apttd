@@ -12,11 +12,12 @@ state = {
 		add_core_of = BLR
 
 		victory_points = { 3350 3 }
+		victory_points = { 11313 1 }
 		
 		buildings = {
 			infrastructure = 3 
 		}
 	}
 
-	provinces = { 360 386 3350 3759 13364 13365 13366 13368}
+	provinces = { 304 331 360 386 3350 3759 6373 11313 13364 13365 13366 13367 13368 13370 }
 }

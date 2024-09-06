@@ -17,5 +17,5 @@ state={
 		}
 	}
 
-	provinces={ 6344 9288 9342 11355  } 
+	provinces={ 9288 9342 } 
 }
