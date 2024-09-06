@@ -1,0 +1,19 @@
+state = {
+	id=981
+	name="STATE_981"
+	manpower=24735
+	state_category = rural
+	
+	history={
+		owner = DON
+		add_core_of = DON
+		add_core_of = UKR
+		victory_points = { 6493 1 }
+    
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	
+	provinces={ 3421 6493 9446 }
+}
