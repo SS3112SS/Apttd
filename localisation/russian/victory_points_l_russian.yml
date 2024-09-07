@@ -1,4 +1,4 @@
-﻿l_russian:
+l_russian:
  VICTORY_POINTS_TOOLTIP: "§G$NAME$§! победных очков = §Y$POINTS$§!"
  VICTORY_POINTS_6521: "Берлин"
  VICTORY_POINTS_692: "Мюнхен"
@@ -826,7 +826,7 @@
  VICTORY_POINTS_11905: "Александруполис"
  VICTORY_POINTS_6652: "Крайова"
  VICTORY_POINTS_6727: "Белгород-Днестровский"
- VICTORY_POINTS_721: "Херсон"
+ VICTORY_POINTS_11715: "Херсон"
  VICTORY_POINTS_406: "Молодечно"
  VICTORY_POINTS_11598: "Больцано"
  VICTORY_POINTS_651: "Шатору"
@@ -1300,3 +1300,7 @@
  VICTORY_POINTS_9552: "Острогозьк"
  VICTORY_POINTS_9476: "Луганська"
  VICTORY_POINTS_9476: "Сніжне"
+ VICTORY_POINTS_6507: "Кременчук" 
+ VICTORY_POINTS_3403: "Єлисаветград"
+ VICTORY_POINTS_11477: "Коростень"
+

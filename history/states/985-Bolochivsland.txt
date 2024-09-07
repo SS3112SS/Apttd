@@ -1,0 +1,18 @@
+state = {
+	id=985
+	name="STATE_985"
+	manpower=1234735
+	state_category = large_town
+	
+	history={
+		owner = UKR
+		add_core_of = UKR
+		victory_points = { 6593 5 }
+    
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	
+	provinces={ 3470 3511 3570 6593 9533 11464 11514 }
+}
